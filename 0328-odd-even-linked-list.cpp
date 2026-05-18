@@ -1,6 +1,3 @@
-#include <iostream>
-#include <vector>
-
 // Leetcode 328 Odd Even Linked List
 
 // https://leetcode.com/problems/odd-even-linked-list/description/
@@ -15,6 +12,9 @@ Note that the relative order inside both the even and odd groups should remain a
 
 You must solve the problem in O(1) extra space complexity and O(n) time complexity.
 */
+
+#include <iostream>
+#include <vector>
 
 struct ListNode {
     int val;

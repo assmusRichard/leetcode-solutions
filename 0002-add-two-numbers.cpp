@@ -1,6 +1,3 @@
-#include <iostream>
-#include <vector>
-
 // Leetcode 2 Add Two Numbers
 
 // https://leetcode.com/problems/add-two-numbers/description/
@@ -11,6 +8,9 @@ stored in reverse order, and each of their nodes contains a single digit. Add th
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 */
+
+#include <iostream>
+#include <vector>
 
 struct ListNode {
     int val;

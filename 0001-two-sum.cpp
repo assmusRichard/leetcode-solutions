@@ -1,7 +1,3 @@
-#include <vector>
-#include <unordered_map>
-#include <iostream>
-
 // Leetcode 1 Two Sum
 
 // https://leetcode.com/problems/two-sum/
@@ -13,6 +9,10 @@ You may assume that each input would have exactly one solution, and you may not 
 
 You can return the answer in any order.
 */
+
+#include <vector>
+#include <unordered_map>
+#include <iostream>
 
 class Solution {
     public:
